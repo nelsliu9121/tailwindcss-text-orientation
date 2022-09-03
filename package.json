@@ -1,0 +1,21 @@
+{
+  "name": "tailwindcss-text-orientation",
+  "packageManager": "yarn@3.2.3",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nelson Liu",
+    "email": "nelsliu9121@gmail.com"
+  },
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsliu9121/tailwindcss-text-orientation"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": "*"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
